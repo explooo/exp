@@ -1,0 +1,29 @@
+body{
+    color: violet;
+    background-color: aquamarine;
+    font-family: "consolas",Arial, Helvetica, sans-serif,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    
+}
+p{
+    color: beige;
+    font-family: "press Start 2P";
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: cyan wavy underline;
+}
+ol{
+    color:greenyellow
+}
+#para1{
+    color: blue;
+}
+#list{
+    color:aquamarine
+}
+#haha{
+    color:tomato
+}
+
+.ji{
+    background-color: blue;
+}
